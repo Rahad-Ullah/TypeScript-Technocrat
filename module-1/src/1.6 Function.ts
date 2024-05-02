@@ -7,7 +7,7 @@ function add(num1: number, num2: number): number {
 const addArrow = (num1: number, num2: number): number => num1 + num2;
 
 // object --> function = method
-const poorUser = {
+const richUser = {
     name: 'Rahad',
     balance: 0,
     addBalance (balance: number): number {
