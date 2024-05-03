@@ -15,5 +15,4 @@
     // * array destructuring
     var myFriends = ['Suhag', 'Nazmul', 'Yasin', 'Shahin', 'Rahat', 'Sujon'];
     var b = myFriends[1], c = myFriends[2], kobi = myFriends[4], rest = myFriends.slice(5);
-    console.log(kobi);
 }
