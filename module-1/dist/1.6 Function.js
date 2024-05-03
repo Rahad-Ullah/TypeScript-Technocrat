@@ -6,7 +6,7 @@ function add(num1, num2) {
 // arrow function
 var addArrow = function (num1, num2) { return num1 + num2; };
 // object --> function = method
-var poorUser = {
+var richUser = {
     name: 'Rahad',
     balance: 0,
     addBalance: function (balance) {
