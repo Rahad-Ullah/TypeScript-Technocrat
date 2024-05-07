@@ -1,5 +1,6 @@
 {
     //* Constraint
+    // constraint --> forces to fix some type required
 
     const addCourseToStudent = <T extends {
         id: number;

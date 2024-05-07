@@ -9,7 +9,7 @@
 
     type Owner = "bike" | "car" | "ship"    // manually
 
-    type Owner2 = keyof Vehicle;    // dynamically
+    type Owner2 = keyof Vehicle;    // dynamically return all key of the object
 
 
     // Implement: make a function that return it's specific value
