@@ -39,7 +39,7 @@
     //? 6. Record   --> প্যাটার্ন নির্ধারন করা
     type MyObj = Record<string, number>
 
-    const emptyObj: Record<string, unknown> = {}    //! important topic
+    const emptyObj: Record<string, unknown> = {}    //! important topic 
 
     const obj1: MyObj = {
         a: 1,
